@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-@RestController()
+@RestController
 @RequestMapping("user")
 public class UserController extends RestBaseController {
 
